@@ -17,6 +17,7 @@ The game is played using:
 
 ### Keys
 Keys are represented by a 'K'.
+
 When the player interacts with one, a single key is added to their inventory. If they already have a key, the keys in their inventory remains one.
 
 ### Doors
