@@ -16,7 +16,7 @@ The game is played using:
   - Doors that can be unlocked with a key
 
 ### Keys
-Keys are represented by a 'K'.
+Keys are represented by a 'k'.
 When the player interacts with one, a single key is added to their inventory. If they already have a key, the keys in their inventory remains one.
 
 ### Doors
@@ -26,3 +26,9 @@ If the player interacts with the door and has a key, they open the door. Opening
 
 #### Future Intentions
 Doors are intended to also be represented by a ')', if they are locked from the other side. This may be added in a future update, and leave possibility for level design of being able to open a door from one side but not the other.
+
+### Combat
+Enemies are represented by an 'E'.
+
+#### Future Intentions
+NPCs are intended to all be represented by capital letters. Colours will distinguish between the player's relationship with the NPC, for example, red for enemy and green for friendly.
