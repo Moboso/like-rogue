@@ -32,3 +32,6 @@ Enemies are represented by an 'E'.
 
 #### Future Intentions
 NPCs are intended to all be represented by capital letters. Colours will distinguish between the player's relationship with the NPC, for example, red for enemy and green for friendly.
+
+## Running the Game
+The game can be accessed on the website in the description, at: https://roguelike.w3spaces.com
